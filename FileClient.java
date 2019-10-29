@@ -23,7 +23,7 @@ public class FileClient {
 					"3: Create a listing\n" +
 					"4: View all listings\n" +
 					"5: Search listings\n" +
-					"6: Remove listing\n" +
+					"6: View own listing\n" +
 					"0: Stop the client\n";
 			boolean shouldStop = false;
 			String line = "";
