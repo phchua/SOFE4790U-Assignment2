@@ -1,0 +1,7 @@
+username,email,bookName,bookEdition,bookAcadYear,bookCourseCode,bookFaculty
+test1,test1@uoit.ca,book1,4,1,SOFE100,Engineering
+test1,test1@uoit.ca,book2,3,2,SOFE200,Engineering
+test1,test1@uoit.ca,book3,2,3,SOFE300,Engineering
+test2,test2@uoit.ca,book1,4,1,SOFE100,Engineering
+test2,test2@uoit.ca,book3,5,3,SOFE300,Engineering
+test3,test2@uoit.ca,book4,6,4,INFR400,FBIT
